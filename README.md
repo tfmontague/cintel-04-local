@@ -14,11 +14,11 @@ Once the project virtual environment has everything required, we can open the pr
 
 ### Prior to starting this project, ensure that the following assignments have been completed:
 
-[CC4.1: Orient and Engage (Professional Tools, Install Python)](https://nwmissouri.instructure.com/courses/58020/assignments/935693)
-[CC4.2: Install & Configure VS Code for Editing & Engage](https://nwmissouri.instructure.com/courses/58020/assignments/942456)
-[CC4.3: Install & Configure Git for version control](https://nwmissouri.instructure.com/courses/58020/assignments/942454)
-[CC4.4: Starting a Local Python Project & Engage (It's crazy!)](https://nwmissouri.instructure.com/courses/58020/assignments/944537)
-[CC4.5: Running Python in VS Code (Envs and Terminals) & Engage](https://nwmissouri.instructure.com/courses/58020/assignments/944538)
+- [CC4.1: Orient and Engage (Professional Tools, Install Python)](https://nwmissouri.instructure.com/courses/58020/assignments/935693)
+- [CC4.2: Install & Configure VS Code for Editing & Engage](https://nwmissouri.instructure.com/courses/58020/assignments/942456)
+- [CC4.3: Install & Configure Git for version control](https://nwmissouri.instructure.com/courses/58020/assignments/942454)
+- [CC4.4: Starting a Local Python Project & Engage (It's crazy!)](https://nwmissouri.instructure.com/courses/58020/assignments/944537)
+- [CC4.5: Running Python in VS Code (Envs and Terminals) & Engage](https://nwmissouri.instructure.com/courses/58020/assignments/944538)
 
 ### Completing the aforementioned assignments will result in a project repo named `cintel-04-local`, with the following files
 
